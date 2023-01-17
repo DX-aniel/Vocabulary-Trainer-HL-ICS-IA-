@@ -1,0 +1,1 @@
+jar cvfm IA.jar Manifest.txt *.class
